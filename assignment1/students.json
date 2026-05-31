@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Alice Johnson",
+    "scores": [92, 88, 95, 91, 87]
+  },
+  {
+    "name": "Bob Smith",
+    "scores": [73, 68, 75, 70, 72]
+  },
+  {
+    "name": "Carol White",
+    "scores": [55, 60, 48, 52, 58]
+  },
+  {
+    "name": "David Lee",
+    "scores": [81, 85, 79, 83, 88]
+  },
+  {
+    "name": "Eva Martinez",
+    "scores": [63, 67, 61, 65, 70]
+  }
+]
