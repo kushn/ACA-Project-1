@@ -48,20 +48,3 @@ Pass threshold: average **≥ 60**
 | `.gitignore`    | Excludes node_modules and misc files  |
 
 ---
-
-## Git Workflow
-
-```bash
-# 1. Initialize a repo (first time only)
-git init
-git remote add origin https://github.com/<your-username>/assignmentFULLSTACK.git
-
-# 2. Stage and commit your work
-git add .
-git commit -m "Add assignment1 — Student Report Card"
-
-# 3. Push to GitHub
-git push -u origin main
-```
-
-> ⚠️ Never commit `node_modules/`. The `.gitignore` already handles this.
